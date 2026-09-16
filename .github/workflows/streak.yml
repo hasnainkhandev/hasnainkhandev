@@ -19,7 +19,7 @@ jobs:
       - name: Download streak SVG from demolab
         run: |
           curl -s -o profile-streak.svg \
-            "https://streak-stats.demolab.com/?user=hasnainprogrammer&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+            "https://streak-stats.demolab.com/?user=hasnainkhandev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
           # Verify we got an SVG, not an error page
           head -c 100 profile-streak.svg | grep -q '<svg' || (echo "ERROR: streak SVG not valid" && exit 1)
 
