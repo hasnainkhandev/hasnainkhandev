@@ -9,7 +9,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+things+that+work+in+production.;Clean+UI.+Solid+backend.+Zero+hand-holding.;JavaScript+%7C+Python+%7C+MERN-Stack+%7C+Django)
 
-
 </div>
 
 ---
@@ -62,15 +61,13 @@ What I've delivered in real projects:
 
 ## GitHub Activity
 
-> ⚠️ **Note:** The old `github-readme-stats.vercel.app` public instance is permanently paused. The cards below use `nixrajput.com` (a reliable community-hosted mirror) and `demolab.com` for streaks — both actively maintained. If any card still fails, see the [self-hosting guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) to spin up your own instance in minutes.
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.nixrajput.com/api?username=hasnainprogrammer&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](./profile-stats.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hasnainprogrammer&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](./profile-streak.svg)
 
-![Top Langs](https://github-readme-stats.nixrajput.com/api/top-langs/?username=hasnainprogrammer&theme=github_dark&hide_border=true&layout=compact&count_private=true)
+![Top Languages](./profile-languages.svg)
 
 </div>
 
