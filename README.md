@@ -1,31 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Hasnain%20Khan&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%94%20React%20%C2%B7%20Next.js%20%C2%B7%20Django%20%C2%B7%20Node.js&descAlignY=60&descSize=17&descColor=7d96b0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Hasnain%20Khan&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%94%20React%20%C2%B7%20Node.js%20%C2%B7%20Next.js%20%C2%B7%20Django&descAlignY=60&descSize=17&descColor=7d96b0" width="100%"/>
 
 </div>
 
 <div align="center">
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+things+that+work+in+production.;Clean+UI.+Solid+backend.+Zero+hand-holding.;JavaScript+%7C+Python+%7C+MERN-Stack+%7C+Django)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+things+that+work+in+production.;Clean+UI.+Solid+backend.+Reliable+databases.;JavaScript+%7C+Python+%7C+MERN-Stack+%7C+Django)
 
 </div>
 
----
 
-## Who I Am
 
-I'm a Full-Stack Developer with hands-on production experience across **JavaScript**, **Python**, **React.js**, **Next.js**, **Node.js**, **Express.js**, **Django**, **SQL** and **NoSQL**. I work across the full product lifecycle — from responsive, accessible UIs to backend APIs that handle real traffic.
+## About Me:
+I help teams build, scale, and maintain reliable web applications that users actually enjoy using. As a Full-Stack Developer with hands-on industry experience, I contribute across the entire product lifecycle—from clean, responsive UIs to robust backend systems.<br><br>You’ll benefit from my experience working with JavaScript, React, Python, Django, and the MERN stack, where I’ve delivered production features, fixed critical bugs, optimized performance, and collaborated in Agile, Git-driven environments. I focus on building solutions that are easy to scale, simple to maintain, and safe to use, so teams can move fast without accumulating technical debt.<br><br>If you need someone who can quickly understand your codebase, improve user experience, and ship features without constant supervision, I bring that reliability—along with strong problem-solving skills and a mindset focused on real business impact, not just code.
 
-What makes the difference: I treat every codebase as if I'll have to maintain it myself. That means readable code, sensible abstractions, and decisions that don't come back to bite the team six months later.
 
-What I've delivered in real projects:
-- Shipped production features in React and Django with full test coverage and no regressions
-- Fixed critical bugs under time pressure without creating new ones
-- Cut load times by auditing rendering bottlenecks and lazy-loading where it counted
-- Worked in Agile teams using Git workflows, code review, and sprint planning — without needing constant supervision
 
----
 
 ## Tech Stack
 
@@ -57,7 +49,13 @@ What I've delivered in real projects:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+
+
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnainkhandev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasnainkhandev365@gmail.com) 
+
+
+
 
 ## GitHub Activity
 
@@ -71,29 +69,7 @@ What I've delivered in real projects:
 
 </div>
 
----
 
-## Open to the Right Opportunity
-
-I'm looking for roles — full-time or freelance — where the work is real and the team gives a damn about quality.
-
-If your team needs someone who:
-
-- ✅ Ramps up on an unfamiliar codebase and contributes within days, not weeks
-- ✅ Delivers features that work the first time in production
-- ✅ Communicates trade-offs clearly, in technical and non-technical terms
-- ✅ Writes code the next developer won't have to rewrite
-
-**→ Let's talk.**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnainkhandev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnainkhandev365@gmail.com)
-
-</div>
-
----
 
 <div align="center">
 
