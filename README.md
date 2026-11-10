@@ -13,10 +13,20 @@
 
 
 
-## About Me:
-I help teams build, scale, and maintain reliable web applications that users actually enjoy using. As a Full-Stack Developer with hands-on industry experience, I contribute across the entire product lifecycle—from clean, responsive UIs to robust backend systems.<br><br>You’ll benefit from my experience working with JavaScript, React, Python, Django, and the MERN stack, where I’ve delivered production features, fixed critical bugs, optimized performance, and collaborated in Agile, Git-driven environments. I focus on building solutions that are easy to scale, simple to maintain, and safe to use, so teams can move fast without accumulating technical debt.<br><br>If you need someone who can quickly understand your codebase, improve user experience, and ship features without constant supervision, I bring that reliability—along with strong problem-solving skills and a mindset focused on real business impact, not just code.
+## About Me
 
+I'm a Full-Stack Software Engineer with 2+ years of experience, specializing in React.js. At MicroMerger, I worked on a government budgeting platform that moved a paper-based process online, contributing to its reporting and analytics capabilities:
 
+- Built 12+ reporting modules with Excel export and print support.
+- Refactored the reporting system into a config-driven architecture, reducing the effort of adding a new report from ~10+ lines of component logic to a single configuration entry.
+- Developed a fiscal-year analytics dashboard using React.js and Highcharts, reducing initial load time by ~35% through centralized data management with Redux Toolkit and Async Thunks.
+- Implemented role-based access control across 5 workflows and developed complex forms and tables featuring dynamic validation and auto-calculated fields.
+
+During my internship at Arkhitech, I resolved 20+ production UI and functional bugs and modernized 4+ screens of a legacy React application by migrating custom CSS to reusable Material UI components.
+
+Beyond my professional experience, I've built full-stack projects, including a Django/MySQL rental platform and a Node.js/Express.js/MongoDB posting application with JWT authentication.
+
+I'm looking to join a team where I can take ownership of features, solve engineering problems, and contribute across the stack—from the database to the screen.
 
 
 ## Tech Stack
